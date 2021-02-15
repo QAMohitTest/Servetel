@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="117114" started-at="2021-02-14T18:01:39Z" finished-at="2021-02-14T18:03:36Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="117114" started-at="2021-02-14T18:01:39Z" finished-at="2021-02-14T18:03:36Z">
+      <class name="com.crm.qa.testcases.ServetelTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.qa.testcases.ServetelTest@146ba0ac]" name="setUp" is-config="true" duration-ms="15192" started-at="2021-02-14T23:31:39Z" finished-at="2021-02-14T23:31:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyHomePageTitleTest()[pri:1, instance:com.crm.qa.testcases.ServetelTest@146ba0ac]" name="verifyHomePageTitleTest" duration-ms="15" started-at="2021-02-14T23:31:54Z" finished-at="2021-02-14T23:31:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.ServetelTest@146ba0ac]" name="tearDown" is-config="true" duration-ms="1202" started-at="2021-02-14T23:31:54Z" finished-at="2021-02-14T23:31:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.qa.testcases.ServetelTest@146ba0ac]" name="setUp" is-config="true" duration-ms="13749" started-at="2021-02-14T23:31:55Z" finished-at="2021-02-14T23:32:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="createandUploadRecording()[pri:2, instance:com.crm.qa.testcases.ServetelTest@146ba0ac]" name="createandUploadRecording" duration-ms="7316" started-at="2021-02-14T23:32:09Z" finished-at="2021-02-14T23:32:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createandUploadRecording -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.ServetelTest@146ba0ac]" name="tearDown" is-config="true" duration-ms="1222" started-at="2021-02-14T23:32:16Z" finished-at="2021-02-14T23:32:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.qa.testcases.ServetelTest@146ba0ac]" name="setUp" is-config="true" duration-ms="13623" started-at="2021-02-14T23:32:17Z" finished-at="2021-02-14T23:32:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="addAgentUsingPost()[pri:3, instance:com.crm.qa.testcases.ServetelTest@146ba0ac]" name="addAgentUsingPost" duration-ms="22207" started-at="2021-02-14T23:32:31Z" finished-at="2021-02-14T23:32:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addAgentUsingPost -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.ServetelTest@146ba0ac]" name="tearDown" is-config="true" duration-ms="1218" started-at="2021-02-14T23:32:53Z" finished-at="2021-02-14T23:32:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.qa.testcases.ServetelTest@146ba0ac]" name="setUp" is-config="true" duration-ms="13910" started-at="2021-02-14T23:32:54Z" finished-at="2021-02-14T23:33:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="CreateAutoAttendent()[pri:4, instance:com.crm.qa.testcases.ServetelTest@146ba0ac]" name="CreateAutoAttendent" duration-ms="7511" started-at="2021-02-14T23:33:08Z" finished-at="2021-02-14T23:33:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateAutoAttendent -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.ServetelTest@146ba0ac]" name="tearDown" is-config="true" duration-ms="1224" started-at="2021-02-14T23:33:16Z" finished-at="2021-02-14T23:33:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.qa.testcases.ServetelTest@146ba0ac]" name="setUp" is-config="true" duration-ms="13716" started-at="2021-02-14T23:33:17Z" finished-at="2021-02-14T23:33:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="AssignAutoattendentToNumber()[pri:5, instance:com.crm.qa.testcases.ServetelTest@146ba0ac]" name="AssignAutoattendentToNumber" duration-ms="3759" started-at="2021-02-14T23:33:31Z" finished-at="2021-02-14T23:33:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AssignAutoattendentToNumber -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.ServetelTest@146ba0ac]" name="tearDown" is-config="true" duration-ms="1215" started-at="2021-02-14T23:33:34Z" finished-at="2021-02-14T23:33:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.crm.qa.testcases.ServetelTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
